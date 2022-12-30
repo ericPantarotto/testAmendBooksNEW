@@ -8,7 +8,6 @@
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
-
 ## Code
 
 Inline `code`
@@ -33,3 +32,7 @@ pip install -r requirements.txt
 console.log("Hello")
 console.log("bye")
 ```
+
+![Alt text][id]
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
